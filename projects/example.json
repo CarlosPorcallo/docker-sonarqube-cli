@@ -1,0 +1,6 @@
+{
+    "sonarqube_url":"xxx.xxx.xxx.xxx:9000",
+    "project_key":"PROJECT KEY",
+    "login":"LOGIN KEY",
+    "repo":"<PATH/TO/PROJECT>"
+}
